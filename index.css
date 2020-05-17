@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://webdesignerdepot.s3.amazonaws.com/default-images/25.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 1530px 1000px;
+    margin-right: 0px;
+    margin-left: 0;
+
+}
+
+.cont{
+background-color:#00ffe5;
+height: 116px;
+text-transform: uppercase;
+margin-top: 7px;
+text-align: center;
+font-size: 45px;
+padding-top: 9px;
+font-family: fredoka one;
+}
+
+marquee{
+    background-color: lawngreen;
+    font-size: 15px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3{ 
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3em;
+    font-family: fredoka one;
+    font-stretch: expanded;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+   
+}
+
+img{
+    height: 250px;
+    width: 350px;
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.1);
+
+}
+
+hr{
+    width: 230px;
+    border-color: black;
+    border-width: 3.5px;
+}
+
+#foot{
+    height: 107px;
+    background-color: #00ffe5;
+    border-bottom: 0;
+}
+
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+   margin-bottom: 0px;
+   margin-top: 3px;
+   padding-top: 3px;
+   padding-bottom: -2px;
+   font-family: monospace;
+}
