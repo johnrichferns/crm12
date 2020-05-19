@@ -20,6 +20,11 @@ body{
     padding-top: 9px;
     font-family: fredoka one;
 }
+.crm{
+    margin-top: 0;
+  width: 130px;
+  height: 120px;  
+}
 
 .cent{
     display: grid;

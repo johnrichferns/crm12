@@ -25,6 +25,12 @@ body{
     justify-content: center;
 }
 
+.crm{
+    margin-top: 0;
+  width: 130px;
+  height: 120px;  
+}
+
 img{
     height: 260px;
     width: 370px;
