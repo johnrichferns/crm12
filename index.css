@@ -1,15 +1,11 @@
 body{
-    background-image: url(https://webdesignerdepot.s3.amazonaws.com/default-images/25.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 1530px 1000px;
+    background-color: rgba(11, 11, 12, 0.945);
     margin-right: 0px;
     margin-left: 0;
 }
 
 .cont{
-background-color:#00ffe5;
+background-color:#313131;
 height: 116px;
 text-transform: uppercase;
 margin-top: 7px;
@@ -26,14 +22,15 @@ font-family: fredoka one;
 }
 
 marquee{
-    background-color: rgb(19, 255, 50);
+    background-color: none;
+    color: rgb(255, 255, 255);
     font-size: 15px;
     font-weight: bolder;
     text-transform: capitalize;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 h3{ 
-    color: rgb(255, 255, 255);
+    color: rgba(30, 255, 86, 0.911);
     text-transform: uppercase;
     text-align: center;
     font-size: 3em;
@@ -47,13 +44,13 @@ h3{
    
 }
 
-img{
+.img{
     height: 250px;
     width: 350px;
     transition: all 1s;
 }
 
-img:hover{
+.img:hover{
     transform: scale(1.1);
 
 }
@@ -66,7 +63,7 @@ hr{
 
 #foot{
     height: 107px;
-    background-color: #00ffe5;
+    background-color: rgba(11, 11, 12, 0.788);
     border-bottom: 0;
 }
 
@@ -80,4 +77,5 @@ p{
    padding-top: 3px;
    padding-bottom: -2px;
    font-family: monospace;
+   color: whitesmoke;
 }

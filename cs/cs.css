@@ -1,9 +1,5 @@
 body{
-    background-image: url(https://webdesignerdepot.s3.amazonaws.com/default-images/25.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 1530px 1000px;
+    background-color: rgba(11, 11, 12, 0.945);
     margin-right: 0px;
     margin-left: 0;
 
@@ -11,7 +7,7 @@ body{
 
 
 .cont{
-    background-color: #00ffe5;
+    background-color:#313131;
     height: 116px;
     text-transform: uppercase;
     margin-top: 7px;
@@ -47,24 +43,30 @@ h3{
     display: grid;
     justify-content: center;
 }
-button{
-    background-color: rgb(130, 22, 253);
-    height: 50px;
-    width: 130px;
-    border-radius: 30px;  
-    border-color: aqua;
-    margin-top: 16px;
+.btn{
+    text-align: center;
+    display: block;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    margin: 30px 0;
+    border: 2px solid rgb(163, 3, 255);
+    padding: 14px 60px;
+    text-transform: uppercase;
+    overflow: hidden;
     font-family: passion one;
     font-size: 20px;
+    transition: 0.6s all ease;
 }
 
-button:hover{
-   background-color: cornsilk;
+.btn:hover{
+    background-color: rgb(163, 3, 255);
+    transform: rotate(15deg);
 }
 
 #foot{
     height: 107px;
-    background-color: #00ffe5;
+    background-color: rgba(11, 11, 12, 0.788);
     border-bottom: 0;
 }
 
@@ -78,4 +80,5 @@ p{
    padding-top: 3px;
    padding-bottom: -2px;
    font-family: monospace;
+   color: whitesmoke;
 }
