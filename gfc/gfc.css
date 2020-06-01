@@ -6,7 +6,7 @@ body{
 
 
 .cont{
-    background-color:#313131;
+    background-color:rgba(11, 11, 12, 0.61);
     height: 116px;
     text-transform: uppercase;
     margin-top: 7px;
@@ -19,8 +19,8 @@ body{
 
 .crm{
     margin-top: 0;
-  width: 130px;
-  height: 120px;  
+    width: 160px;
+    height: 150px;   
 }
 
 .cent{
