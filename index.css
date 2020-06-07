@@ -61,6 +61,10 @@ hr{
     border-width: 3.5px;
 }
 
+a{
+    text-decoration: none;
+}
+
 #foot{
     height: 107px;
     background-color: rgba(11, 11, 12, 0.788);
