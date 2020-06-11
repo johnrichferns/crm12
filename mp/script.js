@@ -17,11 +17,12 @@ const songs = [
   'So Far Away',
   'TWICE  -  What is Love',
   'TWICE  - Dance The Night Away',
-  'TWICE - Heart Shaker',
+  'TWICE  - Heart Shaker',
   'TWICE  - KNOCK KNOCK',
-  'TWICE - LIKEY',
+  'TWICE  - LIKEY',
   'TWICE  - Merry & Happy',
   'TWICE「Wake Me Up」',
+  '愛唄 × See You Again'
 ]
 
 // Keep track of song
